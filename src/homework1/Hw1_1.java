@@ -1,4 +1,4 @@
-package hw1;
+package homework1;
 
 public class Hw1_1 {
     /*

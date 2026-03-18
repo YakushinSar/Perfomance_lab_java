@@ -1,4 +1,4 @@
-package hw1;
+package homework1;
 
 public class Hw1_4 {
     /*
@@ -9,7 +9,7 @@ public class Hw1_4 {
  */
     public static void main(String[] args) {
         double n = 10.23;
-        int i = (int) n;
+        int i = (int) (n + 0.5);
 
         System.out.println(i);
     }
