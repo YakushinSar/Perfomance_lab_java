@@ -47,6 +47,7 @@ public class CreditCard {
         c1.replenishment(100);
         c2.replenishment(1000);
         c3.withdrawal(500);
+
         c1.cardInfo();
         c2.cardInfo();
         c3.cardInfo();
