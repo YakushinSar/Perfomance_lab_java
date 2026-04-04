@@ -1,4 +1,4 @@
-package homework5;
+package homework5.hw5_1;
 
 abstract class Doctor {
 
