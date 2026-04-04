@@ -12,7 +12,8 @@ public class Treugolnik extends Figura {
 
     @Override
     public double ploshad() {
-        return (a + b + c) / 2;
+        double p = (a + b + c) / 2;
+        return Math.sqrt(p * (p - a) * (p - b) * (p - c));
     }
 
     @Override
